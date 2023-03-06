@@ -1,0 +1,14 @@
+{
+  "name": "webkkom-open-2023",
+  "version": "1.0.0",
+  "description": "Presentation and some examples",
+  "scripts": {
+    "dev": "turbo dev --parallel"
+  },
+  "keywords": [],
+  "author": "Ole Magnus Fon Johnnsen <me@omfj.no>",
+  "license": "MIT",
+  "dependencies": {
+    "turbo": "^1.7.4"
+  }
+}
